@@ -1,9 +1,9 @@
 // Declarando as variáveis
-let nome = "thiago"; // Substitua pelo nome do herói
+let nome = ""; // Substitua pelo nome do herói
 let XP = 0; // Substitua pela quantidade de experiência do herói
 
 // Variável para armazenar o nível
-let nivel = "thiago";
+let nivel = "";
 
 // Estrutura de decisão para determinar o nível do herói com base na experiência
 if (XP < 1000) {nivel = "Ferro";
